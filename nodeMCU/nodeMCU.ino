@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "MEO-DCBBCD";
-const char* password = "5F57F6E934";
+const char* ssid = "MEO-WIFI";
+const char* password = "PASSWORD";
 
 #define led 16
 #define D1 5
